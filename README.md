@@ -11,6 +11,3 @@ CSS | C++
 HTML | Python
 ASP.NET | Go
 
-![GitHub Logo](/images/logo.png)
-
-
