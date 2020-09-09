@@ -3,7 +3,7 @@
 ## Testings Purposes
 ## Plugin .crx
 
-
+Raise Hand and comb hair with ingers is my bad habbit while working. I want solve that problem. Then i comeup with this solution 
 
 Web | Desktop
 -- | --
